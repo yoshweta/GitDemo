@@ -16,6 +16,11 @@ public class Helloworld
 		System.out.println("These changes are done by new achriture");
 		System.out.println("in the Asian guy develop branch");
 	}
+	public void demo2()
+	{
+		System.out.println("These changes are done by new Architure gitstuff");
+		System.out.println("in this american guy develop vranch changes");
+	}
 	
 
 }
